@@ -1,0 +1,53 @@
+
+--- Starting Analysis for TSLA ---
+
+[News Analyst] Fetching news for TSLA...
+[Technical Analyst] Analyzing technicals for TSLA...
+[Technical Analyst] Score: 0.30 | Signals: Golden Cross (Bullish), RSI Neutral (39.52), Price below SMA 50
+[Executive (CEO)] Aggregating reports for TSLA...
+[Executive (CEO)] Weighted Score: 0.18 (Tech: 0.3, News: 0.0)
+
+=========================================
+FINAL DECISION FOR TSLA: WEAK BUY
+=========================================
+Reasoning: Moderately positive.
+-----------------------------------------
+Technical Analysis: Score: 0.30 | Signals: Golden Cross (Bullish), RSI Neutral (39.52), Price below SMA 50
+News Analysis: No scorable headlines found.
+=========================================
+
+
+--- Starting Analysis for BTC-USD ---
+
+[News Analyst] Fetching news for BTC-USD...
+[Technical Analyst] Analyzing technicals for BTC-USD...
+[Technical Analyst] Score: -0.70 | Signals: Death Cross (Bearish), RSI Neutral (47.06), Price below SMA 50
+[Executive (CEO)] Aggregating reports for BTC-USD...
+[Executive (CEO)] Weighted Score: -0.42 (Tech: -0.7, News: 0.0)
+
+=========================================
+FINAL DECISION FOR BTC-USD: SELL
+=========================================
+Reasoning: Strong negative pressure.
+-----------------------------------------
+Technical Analysis: Score: -0.70 | Signals: Death Cross (Bearish), RSI Neutral (47.06), Price below SMA 50
+News Analysis: No scorable headlines found.
+=========================================
+
+
+--- Starting Analysis for GOOGL ---
+
+[News Analyst] Fetching news for GOOGL...
+[Technical Analyst] Analyzing technicals for GOOGL...
+[Technical Analyst] Score: 0.70 | Signals: Golden Cross (Bullish), RSI Neutral (64.96), Price above SMA 50
+[Executive (CEO)] Aggregating reports for GOOGL...
+[Executive (CEO)] Weighted Score: 0.42 (Tech: 0.7, News: 0.0)
+
+=========================================
+FINAL DECISION FOR GOOGL: BUY
+=========================================
+Reasoning: Strong positive signals from mechanics and/or sentiment.
+-----------------------------------------
+Technical Analysis: Score: 0.70 | Signals: Golden Cross (Bullish), RSI Neutral (64.96), Price above SMA 50
+News Analysis: No scorable headlines found.
+=========================================

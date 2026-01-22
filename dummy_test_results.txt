@@ -1,0 +1,41 @@
+
+XXX --- RUNNING DUMMY TEST SCENARIOS (INDIAN MARKET CONTEXT) --- XXX
+
+>>> TEST CASE 1: INFOSYS (Bullish News + Bullish Tech)
+[Executive (CEO)] Aggregating reports for INFY.NS...
+[Executive (CEO)] Weighted Score: 0.50 (Tech: 0.85, News: -0.02)
+
+=========================================
+FINAL DECISION FOR INFY.NS: STRONG BUY / GO LONG
+=========================================
+Reasoning: Strong bullish momentum confirmed by technicals and sentiment.
+-----------------------------------------
+Technical Analysis: Golden Cross verified. Price broke multi-year resistance. RSI Healthy (60).
+News Analysis: Mock Analysis of 3 headlines. Avg Score: -0.02 | Headlines: ['Infosys reports 20% jump in quarterly profits', 'Infosys signs massive deal with global AI firm']...
+=========================================
+
+>>> TEST CASE 2: ADANI ENT (Bad News + Breakdown)
+[Executive (CEO)] Aggregating reports for ADANIENT.NS...
+[Executive (CEO)] Weighted Score: -0.56 (Tech: -0.9, News: -0.05)
+
+=========================================
+FINAL DECISION FOR ADANIENT.NS: STRONG SELL / SHORT
+=========================================
+Reasoning: Bearish breakdown. Look for shorting opportunities.
+-----------------------------------------
+Technical Analysis: Death Cross active. Price below all major SMAs. High volume selling.
+News Analysis: Mock Analysis of 3 headlines. Avg Score: -0.05 | Headlines: ['Reports allege accounting irregularities', 'Stock plunges 10% as CEO steps down']...
+=========================================
+
+>>> TEST CASE 3: ITC (Good News vs Overbought)
+[Executive (CEO)] Aggregating reports for ITC.NS...
+[Executive (CEO)] Weighted Score: -0.05 (Tech: -0.3, News: 0.33)
+
+=========================================
+FINAL DECISION FOR ITC.NS: HOLD / NO TRADE
+=========================================
+Reasoning: Market is choppy or directionless.
+-----------------------------------------
+Technical Analysis: RSI Extremely Overbought (85). Divergence detected. Price far above 50SMA (Correction likely).
+News Analysis: Mock Analysis of 2 headlines. Avg Score: 0.33 | Headlines: ['ITC declares strong dividend payout', 'FMCG sector looking positive for upcoming quarter']...
+=========================================
