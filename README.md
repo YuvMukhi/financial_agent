@@ -2,7 +2,7 @@
 
 A modular AI system that combines News Analysis (NLP) and Technical Analysis to make trading decisions for the Indian Stock Market (NSE).
 
-## 📂 Project Structure
+##  Project Structure
 
 - **`main.py`**: The entry point. Run this to analyze a stock.
 - **`agents/`**: Contains the logic for individual agents.
@@ -11,7 +11,7 @@ A modular AI system that combines News Analysis (NLP) and Technical Analysis to 
   - `executive_agent.py`: Aggregates data and makes the final BUY/SELL decision.
 - **`requirements.txt`**: List of Python dependencies.
 
-## 🚀 How to Run
+##  How to Run
 
 1.  **Install Expectations**:
     ```bash
@@ -30,10 +30,10 @@ A modular AI system that combines News Analysis (NLP) and Technical Analysis to 
     ```
     *(The system automatically appends `.NS` for NSE tickers)*
 
-## 🧪 Testing
+##  Testing
 - **`demo_scenarios.py`**: Run this to see how the Executive Agent handles various hardcoded scenarios (Bullish, Bearish, Mixed).
 
-## 📊 Logic
+##  Logic
 1.  **News Agent**: Scans recent headlines for sentiment (-1 to +1).
 2.  **Technical Agent**: Checks for Golden Cross (SMA50 > SMA200) and RSI levels (Overbought/Oversold).
 3.  **Executive Agent**: Weighs Technicals (60%) and News (40%) to issue a "STRONG BUY", "ACCUMULATE", "HOLD", or "SELL" signal.
